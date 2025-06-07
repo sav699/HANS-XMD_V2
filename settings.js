@@ -22,7 +22,7 @@ global.author = 'UNBAN'
 global.themeemoji = '⚠️'
 global.wm = "UNBAN"
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = '𝐕𝐏𝐍 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 UNBANNED  https://whatsapp.com/channel/0029Vak32nE4o7qP75htEB3I'
 //custom prefix
 global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
@@ -45,10 +45,10 @@ global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
+    botAdmin: 'This feature can only be used when the bot is a group UNBANNED is there Best master admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
+    private: 'This feature is only for private chats please call ubanned on 26377695904',
     wait: 'In process... ',    
     error: 'Error!',
 }
